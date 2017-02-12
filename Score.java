@@ -1,3 +1,27 @@
+
+/////////////////////////////////////////////////////////////////////////////
+// Semester:         CS367 Spring 2017 
+// PROJECT:          p1
+// FILE:             Score.java
+//
+// TEAM:    Team 54, null
+// Authors: (Be sure to check if programming teams are allowed)
+// Author1: Cory Van Beek, cvanbeek@wisc.edu, cvanbeek, Lecture 001
+// Author2: Tessa McChesney, tmcchesney@wisc.edu, tmcchesney, Lecture 002
+// Author3: DEVESH BRENDAN SULLIVAN, dsullivan7@wisc.edu, dsullivan7, Lecture 002
+// Author4: Yang Qu, qu28@wisc.edu, qu28, Lecture 002
+// Author5: Xuyan Wang, xuyan@wisc.edu, xuyan, Lecture 002
+// Author6: Tinghe Wang, tzhang329@wisc.edu, tzhang329, Lecture 002
+//
+// ---------------- OTHER ASSISTANCE CREDITS 
+// Persons: Identify persons by name, relationship to you, and email. 
+// Describe in detail the the ideas and help they provided. 
+// 
+// Online sources: avoid web searches to solve your problems, but if you do 
+// search, be sure to include Web URLs and description of 
+// of any information you find. 
+//////////////////////////// 80 columns wide //////////////////////////////////
+
 /**
  * This class is an object which holds information for an assignment including its name, points scored, and points possible
  * @author Cory Van Beek
